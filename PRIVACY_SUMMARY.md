@@ -45,4 +45,4 @@ The script files (`daily_activity.sh`, etc.) contain internal paths like `/home/
 ✅ No sensitive data exposed
 
 ## Note:
-There is ONE old commit (fc648c3) that contains "System: Linux 6.14.0-35-generic" from before the fix. Future commits will NOT include this information.
+✅ All commits are clean - no system information in commit history.
